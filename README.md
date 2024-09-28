@@ -4,8 +4,11 @@ This repository contains solutions to the HackerRank REST API Intermediate Certi
 
 ## Contents
 ```Hackerank Rest API Certification Questions.pdf```: A PDF containing all the certification questions.
+
 ```Number_Of_Drawn-matches.py```: Python script to calculate the number of drawn matches in a given year.
+
 ```Total_Goals_by_a_Team.py```: Python script to calculate the total number of goals scored by a team in a given year.
+
 ```README.md```: This file, which explains the contents and purpose of the repository.
 
 ## Description
